@@ -60,16 +60,16 @@ API полностью по REST: правильные методы (GET, POST, 
 Вот как выглядит документация и работа API (скриншоты из реального запуска):
 
 #### 1. Главная страница Swagger UI
-![Главная страница Swagger](screenshots/swagger-main.png)
+![Главная страница Swagger](screenshot-1.png)
 
 #### 2. Пример GET-запроса (список товаров)
-![GET products](screenshots/swagger-get-products.png)
+![GET products](screenshot-2.png)
 
 #### 3. Пример POST-запроса (добавление клиента)
-![POST client](screenshots/swagger-post-client.png)
+![POST client](screenshot-3.png)
 
 #### 4. Негативный сценарий (ошибка валидации 400)
-![Ошибка 400](screenshots/swagger-error-400.png)
+![Ошибка 400](screenshot-4.png)
 
 Скриншоты лежат в папке `/screenshots`. Если запустишь проект — всё будет работать точно так же.
 
